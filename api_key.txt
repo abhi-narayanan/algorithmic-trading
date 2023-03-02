@@ -1,0 +1,5 @@
+## API Key
+## API Secret
+## Client ID
+## Password
+## PIN/Google Authenticator(QR Code pin from Kite Settings)
